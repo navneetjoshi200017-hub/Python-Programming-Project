@@ -1,4 +1,4 @@
-# Text Frequency Counter
+# Word Frequency Counter
 
 A command-line Python program that reads a text file, counts how often each word appears, and prints a formatted frequency report. Built as a project for the course **Introduction to Python Programming (CS213)**.
 
@@ -111,4 +111,4 @@ Rank  Word                      Frequency  Percentage
 
 ## Author
 
-Navneet Joshi, CS213, Introduction to Python Programming
+Navneet Joshi
